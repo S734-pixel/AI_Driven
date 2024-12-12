@@ -6,6 +6,8 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 import joblib
 
+##add data
+
 # Step 1: Load the Dataset
 file_path = 'D:/AI-Driven Construction and Development/New folder/ICT_Subdimension_Dataset new.csv'
 data = pd.read_csv(file_path)
